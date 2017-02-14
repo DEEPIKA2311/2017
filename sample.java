@@ -5,5 +5,6 @@ public class sample
 	{
 		System.out.println("Hello welcome to java");
 		System.out.println("my frst chnge");
-	}
+	hbchdff}
+
 }
